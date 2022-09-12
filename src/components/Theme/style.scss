@@ -1,0 +1,25 @@
+@use '/src/styles/vars';
+@use 'sass:color';
+
+.theme{
+    display: flex;
+    justify-content:flex-end;
+    margin-right: 0.5rem;
+    font-size: 0.8rem;
+    
+    &-selected{
+        background-color: color.adjust(vars.$color-searchBar, $alpha: -0.1);
+        border: none;
+        border-radius: 5px;
+        color: vars.$color-searchBarText;
+        padding:0.2rem;
+    }
+
+    &-noSelected{
+        background-color: color.adjust(vars.$color-searchBar, $alpha: -1);
+        border: none;
+        border-radius: 5px;
+        padding:0.2rem;
+        color:white;
+    }
+}

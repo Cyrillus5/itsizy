@@ -1,0 +1,123 @@
+[
+    {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Vente maison : annonces maisons à vendre - ParuVendu.fr",
+        "url": "https://www.paruvendu.fr/immobilier/vente/maison/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.paruvendu.fr/immobilier/vente/maison",
+        "snippet": "MAISONS FRANCE CONFORT 123 annonces. Voir l'annonce. Nouveau 9. Maison 5 pièces, 100 m² Sainte-Croix-de-Quintillargues (34270) 497 700 €. Projet de construction à découvrir avec nous sur ste croix ! terrain de 300 m² + maison 100 m² etage. cette maison spacieuse de 100 m² offre une pièce de vie de près de 40 m² baignée de lumière ...",
+        "deepLinks": [
+            {
+                "name": "Vente maison",
+                "url": "https://www.paruvendu.fr/immobilier/vente/maison/"
+            },
+            {
+                "name": "2|Page suivante",
+                "url": "https://www.paruvendu.fr/immobilier/vente/maison/?p=2"
+            }
+        ],
+        "dateLastCrawled": "2022-09-10T19:20:00.0000000Z",
+        "language": "fr",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "310 960 annonces de ventes de maisons en France, Seloger.com",
+        "url": "https://www.seloger.com/immobilier/pays/achat/bien-maison/france.htm",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seloger.com/immobilier/pays/achat/bien-maison/france.htm",
+        "snippet": "Maison/Villa à vendre - Vindelle (16430) 12 min du centre ville d'Angoulême, Maison de 96m2 habitable, 5 pièces, 3 chambres, sur une parcelle de 1000m2 avec un jardin arboré totalement clôturé. Une superbe maison qui saura vous apporter du calme, au sein de ses grands espaces lumineux et chaleureux. Une entrée qui dessert un espace de ...",
+        "dateLastCrawled": "2022-09-10T14:08:00.0000000Z",
+        "language": "fr",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "24 maisons à vendre à Mainvilliers (28) - SeLoger",
+        "url": "https://www.seloger.com/immobilier/achat/immo-mainvilliers-28/bien-maison/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.H2JmhGMN_tC0TjgKsd7S5wAAAA&pid=Api",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seloger.com/immobilier/achat/immo-mainvilliers-28/bien-maison",
+        "snippet": "Maison/Villa à vendre - Square Habitat Chartres vous propose à la vente cette maison de ville de 90m². A seulement 1,5km de la gare de chartres, cette maison comprend en rdc : une salle à manger avec cuisine aménagée et équipée, un salon, dégagement donnant accès à la salle de bains et WC séparés.",
+        "dateLastCrawled": "2022-09-09T03:53:00.0000000Z",
+        "language": "fr",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Vente Maison - Toutes les annonces de vente de maison - PAP",
+        "url": "https://www.pap.fr/annonce/vente-maisons",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.pap.fr/annonce/vente-maisons",
+        "snippet": "Vente maison. + de 200 annonces de vente de maison en France. Ces annonces sont mises à jour régulièrement pour vous apporter le meilleur service. Recherchez directement les annonces de vente de maison par ville ou département à l'aide de notre recherche assistée ou consultez les annonces de location maison.",
+        "dateLastCrawled": "2022-09-10T17:21:00.0000000Z",
+        "language": "fr",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Achat maison : trouvez une maison à vendre - Bien’ici",
+        "url": "https://www.bienici.com/achat-maison",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bienici.com/achat-maison",
+        "snippet": "Trouver une maison à vendre. Pour commencer votre recherche immobilière, vous pouvez consulter les annonces de biens disponibles à l’achat sur internet. Vous pourrez ainsi évaluer rapidement le marché et vous faire une idée de la maison correspondant à vos critères et à votre budget. Renseignez-vous sur les différentes aides ...",
+        "dateLastCrawled": "2022-09-10T16:29:00.0000000Z",
+        "language": "fr",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Toutes les annonces immobilières de Maison à vendre - entre particuliers",
+        "url": "https://www.entreparticuliers.com/annonces-immobilieres/vente/maison",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.entreparticuliers.com/annonces-immobilieres/vente/maison",
+        "snippet": "Consultez toutes les annonces immobilières de vente maison sur toute la France. Pour votre projet de vente maison, nous vous présentons les annonces présentées sur le marché immobilier français. Nous vous proposons de consulter également les prix immobiliers des maison vendus au cours des 5 dernières années. Retrouvez également la ...",
+        "dateLastCrawled": "2022-09-10T19:03:00.0000000Z",
+        "language": "fr",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Achat maison | vente maison - Century 21 France",
+        "url": "https://www.century21.fr/edito/achat-maison/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.century21.fr/edito/achat-maison",
+        "snippet": "Bien acheter sa maison. Acheter une maison est un acte des plus impliquant et CENTURY 21 en a conscience ! Retrouvez tous nos conseils d’experts à travers nos articles pour vous accompagner de l’expression de votre besoin jusqu’à l’emménagement.",
+        "dateLastCrawled": "2022-09-09T21:10:00.0000000Z",
+        "language": "fr",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Maison à vendre en France | Logic-immo",
+        "url": "https://www.logic-immo.com/index/maison-a-vendre",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.logic-immo.com/index/maison-a-vendre",
+        "snippet": "Vente maison Ile de France 43379. Vente maison Aquitaine 24193. Vente maison Provence Alpes Cote d'Azur 23082. Vente maison Rhone Alpes 21299. Vente maison Languedoc Roussillon 20804. Vente maison Pays de la Loire 20237. Vente maison Centre 19307. Vente maison Midi Pyrenees 17768. Vente maison Poitou Charentes 13573.",
+        "dateLastCrawled": "2022-09-09T12:25:00.0000000Z",
+        "language": "fr",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "7 139 annonces de locations de maisons en France, Seloger.com",
+        "url": "https://www.seloger.com/immobilier/pays/locations/bien-maison/france.htm",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seloger.com/immobilier/pays/locations/bien-maison/france.htm",
+        "snippet": "Location Maison/Villa - Belle Meulière de 180 m² env avec jardin d'environ 500m² sur trois niveaux, offrant, 6 chambres dont une en rez de chaussée, un double séjour très lumineux, une cuisine indépendante aménagée, une salle de douches ,une salle de bains et un sous-sol total.",
+        "dateLastCrawled": "2022-09-10T18:22:00.0000000Z",
+        "language": "fr",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Meuble, idée déco, canapé et luminaire | Maisons du Monde",
+        "url": "https://www.maisonsdumonde.com/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.maisonsdumonde.com",
+        "snippet": "Tous les styles de meubles et déco sont chez Maisons du Monde ! Et avec des nouveautés toute l’année et la livraison gratuite en magasin, décorez à volonté.",
+        "dateLastCrawled": "2022-09-10T09:26:00.0000000Z",
+        "language": "fr",
+        "isNavigational": false
+    }
+]

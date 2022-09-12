@@ -1,0 +1,20 @@
+@use 'reset';
+@use 'vars';
+
+body {
+  font-family: 'Roboto', sans-serif;  
+}
+
+input, button, select {
+  font: inherit;
+}
+
+@keyframes pop {
+  0% {
+    transform: scale(0.5);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}

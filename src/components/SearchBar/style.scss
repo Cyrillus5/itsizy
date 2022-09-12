@@ -1,0 +1,91 @@
+@use '/src/styles/vars';
+@use 'sass:color';
+
+.SearchBar{
+    width: 100%;
+    position: relative;
+    top: 25vh;
+
+    &-form{
+        background-color: vars.$color-searchBar;
+        border-radius: 30px;
+        display: flex;
+        justify-content: space-between;
+        max-width: 600px;
+        width: 400px;
+        margin :auto;
+        height: 3rem;
+        box-shadow: 1px 1px 5px vars.$color-searchBarText;        
+    }
+
+    &-input{
+        border : 0;
+        background-color: #11ffee00;
+        color: vars.$color-searchBarText;
+        margin-left: 1rem;
+        width: 100%;
+
+        &::placeholder{
+            color: vars.$color-searchBarPlaceholder;
+        }
+    }    
+
+    &-button{
+        border : 0;        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: color.adjust(vars.$color-searchBar, $alpha: -1);
+
+        &-icon{
+            margin-right: 1rem;
+            color: vars.$color-searchBarText;
+        }
+      
+    }
+
+}
+
+.withResult{
+    width: 100%;
+    position: relative;
+    top:3rem;
+       
+
+    &-form{
+        background-color: vars.$color-searchBar;
+        border-radius: 30px;
+        display: flex;
+        justify-content: space-between;
+        max-width: 600px;
+        width: 400px;
+        margin :auto;
+        height: 3rem;
+        box-shadow: 1px 1px 5px vars.$color-searchBarText;        
+    }
+
+    &-input{
+        border : 0;
+        background-color: #11ffee00;
+        color: vars.$color-searchBarText;
+        margin-left: 1rem;
+
+        &::placeholder{
+            color: vars.$color-searchBarPlaceholder;
+        }
+    }    
+
+    &-button{
+        border : 0;        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: color.adjust(vars.$color-searchBar, $alpha: -1);
+
+        &-icon{
+            margin-right: 1rem;
+            color: vars.$color-searchBarText;
+        }
+      
+    }
+}

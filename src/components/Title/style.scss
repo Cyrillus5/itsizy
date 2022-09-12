@@ -1,0 +1,70 @@
+.light {
+    margin: 0;    
+    font-size: 20vh;
+    font-weight: bolder;
+    letter-spacing: 1vw;
+    position: absolute;
+    top: 5vh;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    background:url('https://www2.grosfillex.com/sites/default/files/declinaisons-couleurs/revetement-element-3d-infinity-infinity-blanc-10213.jpg');
+    background-size: auto 200%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: shine 8s linear infinite;
+    
+    &:nth-child(2) {
+      top: 50vh;
+    }
+    @keyframes shine {
+      from {
+        background-position: center 0;
+      }
+      to {
+        background-position: center 200%;
+      }
+    }
+  }
+
+  .dark{
+    margin: 0;    
+    font-size: 20vh;
+    font-weight: bolder;
+    letter-spacing: 1vw;
+    position: absolute;
+    top: 5vh;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    background:url('https://i.pinimg.com/736x/be/c1/bd/bec1bd06a118f82e89a28653ba28e870.jpg');
+    background-size: auto 200%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: shine 8s linear infinite;
+    
+    &:nth-child(2) {
+      top: 50vh;
+    }
+    @keyframes shine {
+      from {
+        background-position: center 0;
+      }
+      to {
+        background-position: center 200%;
+      }
+    }
+  }
+
+  .result{
+    margin: 0;    
+    font-size: 2rem;
+    font-weight: bolder;
+    letter-spacing: 1vw;
+    // position: absolute;
+    top: 5vh;
+    left:7rem
+    
+  }

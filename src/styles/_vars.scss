@@ -1,0 +1,7 @@
+@use 'sass:color';
+
+$color-main: rgb(88, 181, 239);
+$color-searchBarText: rgb(141, 141, 141);
+$color-searchBarPlaceholder: color.scale($color-searchBarText, $lightness: 60%);
+$color-searchBar: white;
+$easeBack: cubic-bezier(.44,1.4,.72,1.05);
