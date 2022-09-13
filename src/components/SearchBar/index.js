@@ -1,4 +1,3 @@
-// import PropTypes from 'prop-types';
 import React from 'react';
 import classNames from 'classnames';
 import { useDispatch, useSelector } from 'react-redux';
@@ -17,11 +16,8 @@ function SearchBar() {
   }
   const launchSearch =(event) =>{
     event.preventDefault();    
-    // const searchTerm = event.target[0].value;
-    // console.log(searchTerm);
     dispatch({
       type: 'GET_SEARCH',
-      // term: searchTerm,
     });
   }
   return (
@@ -38,11 +34,6 @@ function SearchBar() {
           aria-label="Termes à rechercher"
           placeholder="Cherchez votre bonheur ... "
           onChange={recordSearchTerm}
-          // loading={isLoading}
-          // value={searchInProgress}
-          // onChange={(event) => {
-          //   setSearchInProgress(event.target.value);
-          // }}
         />        
         <button 
           className={classNames({'SearchBar-button': !getResult}, {'withResult-button':getResult})} 
@@ -59,8 +50,5 @@ function SearchBar() {
     </div>    
   );
 }
-
-// Search.propTypes = {
-//   };
 
 export default SearchBar;

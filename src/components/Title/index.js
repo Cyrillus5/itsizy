@@ -19,8 +19,7 @@ function Title() {
           >
           Itsizy
         </h1>
-        </a>
-            
+        </a>            
     </>        
   );
 }

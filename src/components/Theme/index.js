@@ -1,4 +1,3 @@
-// import PropTypes from 'prop-types';
 import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import classNames from 'classnames';
@@ -12,7 +11,6 @@ function Theme() {
             type: 'SELECT_THEME',
             selectedTheme: !selectedTheme,
         })
-        console.log("bouton");
     };
   return (    
     <>
@@ -35,8 +33,5 @@ function Theme() {
 </>    
   );
 }
-
-// Search.propTypes = {
-//   };
 
 export default Theme;

@@ -1,4 +1,4 @@
-// import PropTypes from 'prop-types';
+import PropTypes from 'prop-types';
 import React from 'react';
 import './style.scss';
 
@@ -17,7 +17,10 @@ function Results({getName, getUrl, getDescription}) {
   );
 }
 
-// Search.propTypes = {
-//   };
+Results.propTypes = {
+  getName: PropTypes.string.isRequired,
+  getUrl: PropTypes.string.isRequired,
+  getDescription: PropTypes.string.isRequired,
+  };
 
 export default Results;
