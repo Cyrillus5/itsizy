@@ -28,7 +28,7 @@ function App() {
       <Theme />      
       <SearchBar />
       {listResults.map((list) => (
-        <Results key={list.id} getName={list.name} getUrl={list.url} getDescription={list.snippet} />
+        <Results key={list.cacheId} getName={list.title} getUrl={list.link} getDescription={list.snippet} />
       ))}      
       {isItLoading && <Loading /> }
       <Waves />          

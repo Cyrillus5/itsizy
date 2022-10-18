@@ -8,7 +8,9 @@
     background-color: color.adjust(vars.$color-searchBar, $alpha: -0.05);
     padding: 1rem;
     padding-left: 4rem;
-    box-shadow: 1px 1px 5px vars.$color-searchBarText;    
+    box-shadow: 1px 1px 5px vars.$color-searchBarText; 
+    margin-left: 1rem;
+    margin-right: 1rem;   
     
     &-ul{
         padding-bottom: 1.5rem;
