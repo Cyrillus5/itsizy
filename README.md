@@ -2,9 +2,9 @@
 
 A Great Search Engine : https://itsizy.surge.sh/
 
-## With Bing' API REST
+## With Google's API REST
 
-This project uses Bing Search API REST :
+This project uses Google Search API REST :
     - React
     - Redux 
     - Protypes
