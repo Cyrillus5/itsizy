@@ -5,13 +5,17 @@
     z-index: 1;
     position: relative;
     top: 4rem;
-    background-color: color.adjust(vars.$color-searchBar, $alpha: -0.05);
+    background-color: color.adjust(vars.$color-searchBar, $alpha: -0.10);
     padding: 1rem;
     padding-left: 4rem;
     box-shadow: 1px 1px 5px vars.$color-searchBarText; 
     margin-left: 1rem;
     margin-right: 1rem;   
     
+    &:hover{
+        background-color: color.adjust(vars.$color-searchBar, $alpha: -0.02);
+    }
+
     &-ul{
         padding-bottom: 1.5rem;
     }
