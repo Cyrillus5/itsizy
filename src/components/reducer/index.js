@@ -18,7 +18,6 @@ export const initialState = {
           ...state,
           loading: true,
           result: true,
-          // termSearch : action.term,
         };
         case 'SAVE_SEARCH':
         return {

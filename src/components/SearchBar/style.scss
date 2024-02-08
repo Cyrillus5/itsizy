@@ -2,17 +2,18 @@
 @use 'sass:color';
 
 .SearchBar{
-    width: 100%;
+    // width: 100%;
     position: relative;
     top: 25vh;
+    margin-right: 1rem;
 
     &-form{
         background-color: vars.$color-searchBar;
         border-radius: 30px;
         display: flex;
         justify-content: space-between;
-        max-width: 600px;
-        width: 400px;
+        width: 90%;
+        max-width: 600px;        
         margin :auto;
         height: 3rem;
         box-shadow: 1px 1px 5px vars.$color-searchBarText;        
@@ -47,9 +48,10 @@
 }
 
 .withResult{
-    width: 100%;
+    // width: 100%;
     position: relative;
     top:3rem;
+    margin-right: 1rem;
        
 
     &-form{
@@ -57,8 +59,8 @@
         border-radius: 30px;
         display: flex;
         justify-content: space-between;
-        max-width: 600px;
-        width: 400px;
+        width: 90%;       
+        max-width: 600px;        
         margin :auto;
         height: 3rem;
         box-shadow: 1px 1px 5px vars.$color-searchBarText;        

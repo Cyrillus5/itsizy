@@ -63,8 +63,25 @@
     font-size: 2rem;
     font-weight: bolder;
     letter-spacing: 1vw;
-    // position: absolute;
     top: 5vh;
-    left:7rem
-    
+    text-align: center;   
+  }
+
+  @media only screen and (max-width: 400px) {
+    .dark{
+      padding-top: 2rem;
+      font-size: 5rem;
+    }
+
+    .light{
+      padding-top: 2rem;
+      font-size: 5rem;
+    }
+
+    .result{
+      margin: 0;    
+      font-size: 2.5rem;
+      font-weight: bolder;
+      top: 0.3vh;
+    }
   }

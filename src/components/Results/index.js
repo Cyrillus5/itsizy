@@ -5,7 +5,7 @@ import './style.scss';
 function Results({getName, getUrl, getDescription}) {
   return (
     <div className='results'>
-        <a href={getUrl} target="_blank" rel="noreferrer" title={getName}>
+        <a href={getUrl} target="_blank" rel="noreferrer" title={getName} className='results-a'>
         <ul className='results-ul'>
             <li className='results-title'>{getName}</li>
             <li className='results-url'>{getUrl}</li>

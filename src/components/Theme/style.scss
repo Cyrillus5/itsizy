@@ -6,6 +6,7 @@
     justify-content:flex-end;
     margin-right: 0.5rem;
     font-size: 0.8rem;
+    width: 90%;
     
     &-selected{
         background-color: color.adjust(vars.$color-searchBar, $alpha: -0.1);

@@ -13,7 +13,6 @@ const getSearch = (store) => (next) => (action) => {
                 });
             })
             .catch((error) => {
-              // en cas d’échec de la requête
               console.log(error);              
             });
     }  

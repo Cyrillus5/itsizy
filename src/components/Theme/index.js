@@ -12,26 +12,26 @@ function Theme() {
             selectedTheme: !selectedTheme,
         })
     };
-  return (    
-    <>
-    <div className='theme'>
-        <button 
-            type="button"
-            className={classNames({ 'theme-selected': selectedTheme }, { 'theme-noSelected': !selectedTheme })} 
-            onClick={selectTheme}
-            >
-            Light
-        </button>
-        <button 
-            type="button" 
-            className={classNames({ 'theme-selected': !selectedTheme }, { 'theme-noSelected': selectedTheme })} 
-            onClick={selectTheme}
-            >
-            Dark
-        </button>
-    </div>
-</>    
-  );
+    return (    
+        <>
+            <div className='theme'>
+                <button 
+                    type="button"
+                    className={classNames({ 'theme-selected': selectedTheme }, { 'theme-noSelected': !selectedTheme })} 
+                    onClick={selectTheme}
+                    >
+                    Light
+                </button>
+                <button 
+                    type="button" 
+                    className={classNames({ 'theme-selected': !selectedTheme }, { 'theme-noSelected': selectedTheme })} 
+                    onClick={selectTheme}
+                    >
+                    Dark
+                </button>
+            </div>
+        </>    
+    );
 }
 
 export default Theme;
